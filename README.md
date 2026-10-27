@@ -1,2 +1,2 @@
-# Library_Management
-Added Flask application, PostgreSQL authentication and CRUD operations
+# Library_Management_system
+Flask app,PostgreSQL authentication and CRUD operations were used in this project
